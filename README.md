@@ -19,7 +19,7 @@ Here are a few of the key projects I've worked on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seifsheikhelarab&repo=BlogApp&theme=dark)](https://github.com/seifsheikhelarab/BlogApp)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seifsheikhelarab&repo=url-shortener-app&theme=dark)](https://github.com/seifsheikhelarab/url-shortener-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seifsheikhelarab&repo=ts-rest-api&theme=dark)](https://github.com/seifsheikhelarab/ts-rest-api)
 
 
 
