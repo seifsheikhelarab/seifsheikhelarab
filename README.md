@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifsheikhelarab" alt="seifsheikhelarab" /></a> </p>
 
-- I’m currently working on [An E-commerce app](github.com/seifsheikhelarab/ecommerce-app)
+- I’m currently working on [An E-commerce app](seifsheikhelarab/ecommerce-app)
 
 - 🌱 I’m currently learning **Backend web development with Express.js**
 
