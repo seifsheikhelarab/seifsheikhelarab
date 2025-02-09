@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Seif</h1>
-<h3 align="center">An undergrad backend developer</h3>
+<h3 align="center">I am an undergrad backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifsheikhelarab&label=Profile%20views&color=0e75b6&style=flat" alt="seifsheikhelarab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifsheikhelarab" alt="seifsheikhelarab" /></a> </p>
 
-- I’m currently working on [An E-commerce app](/ecommerce-app)
+- I’m currently working on [An E-commerce app](https://github.com/seifsheikhelarab/ecommerce-app)
 
 - 🌱 I’m currently learning **Backend web development with Express.js**
 
