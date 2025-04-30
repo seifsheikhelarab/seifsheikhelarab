@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifsheikhelarab" alt="seifsheikhelarab" /></a> </p>
 
-- I’m currently working on [An E-commerce app](https://github.com/seifsheikhelarab/ecommerce-app)
+- I’m currently working on [learning Javascript](https://github.com/seifsheikhelarab/js-tasks)
 
 - 🌱 I’m currently learning **Backend web development with Express.js**
 
 - 📫 How to reach me **seifusama@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QDfGHIVOqK3G8jiQIb1ea4MZ8gslFocz/view?usp=drivesdk](https://drive.google.com/file/d/1QDfGHIVOqK3G8jiQIb1ea4MZ8gslFocz/view?usp=drivesdk)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/1fArTLZ9hKVSiy3X88vu8toR9e7FiO_z1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
