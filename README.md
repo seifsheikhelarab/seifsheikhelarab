@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **seifusama@gmail.com**
 
-- 📄 Know about [my experiences](https://drive.google.com/file/d/1fArTLZ9hKVSiy3X88vu8toR9e7FiO_z1/view?usp=sharing)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/1MdLcapBS9_VbzNjr-AGMy0LRjk51ZAnd/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
