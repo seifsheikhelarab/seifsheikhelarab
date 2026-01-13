@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a budget tracking API<br>I’m looking to collaborate on Full-stack applications<br>I’m currently learning backend development using Node.js<br>Ask me about RESTful APIs
+I’m currently working on a CRM System <br>I’m looking to collaborate on Full-stack applications<br>I’m currently learning backend development using Node.js<br>Ask me about system design!!!
 
 
 ## 🌐 Socials:
