@@ -76,16 +76,3 @@ Feature flag service
 ![Docker](https://img.shields.io/badge/-Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
-
----
-
-### Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=seifsheikhelarab&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifsheikhelarab&theme=tokyonight&hide_border=true&layout=compact" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=seifsheikhelarab&theme=tokyonight&hide_border=true" />
-
-</div>
