@@ -1,24 +1,91 @@
-# 💫 About Me:
-I’m currently working on a CRM System <br>I’m looking to collaborate on Full-stack applications<br>I’m currently learning backend development using Node.js<br>Ask me about system design!!!
+<div align="center">
 
+# Hi, I'm Seif
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/seifsheikhalarab) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seifsheikhelarab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seifusama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seifusama@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+engineer%2C+distributed+systems;Building+a+distributed+job+scheduler+in+Java;Building+Briefly%2C+a+multi-tenant+e-commerce+CRM;" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seifsheikhelarab&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=seifsheikhelarab&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seifsheikhelarab&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seifusama)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifusama@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seifsheikhelarab&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=seifsheikhelarab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Currently building
+
+- **Briefly** — multi-tenant e-commerce CRM with async campaign pipelines and RFM segmentation
+- **Distributed Job Scheduler** — leader election, worker assignment, idempotent retries, in Java/Spring Boot
+- Final-year Communications and Computer Engineering student at Mansoura University
+
+---
+
+### Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Briefly**
+Multi-tenant e-commerce CRM
+`TypeScript` `Bun` `Express` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**Distributed Job Scheduler**
+Leader election, failure handling, idempotent retries
+`Java` `Spring Boot` `Maven`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Orbit**
+Job application tracker with Gmail ingestion
+`Node.js` `PERN` `Prisma` `BullMQ`
+
+</td>
+<td width="50%" valign="top">
+
+**Pivot**
+Feature flag service
+`Go` `chi` `sqlc` `goose`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+### Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=seifsheikhelarab&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifsheikhelarab&theme=tokyonight&hide_border=true&layout=compact" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=seifsheikhelarab&theme=tokyonight&hide_border=true" />
+
+</div>
