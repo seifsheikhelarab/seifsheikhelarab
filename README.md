@@ -13,14 +13,6 @@
 
 ---
 
-### Currently building
-
-- **Briefly** — multi-tenant e-commerce CRM with async campaign pipelines and RFM segmentation
-- **Distributed Job Scheduler** — leader election, worker assignment, idempotent retries, in Java/Spring Boot
-- Final-year Communications and Computer Engineering student at Mansoura University
-
----
-
 ### Projects
 
 <table>
@@ -34,8 +26,8 @@ Multi-tenant e-commerce CRM
 </td>
 <td width="50%" valign="top">
 
-**Distributed Job Scheduler**
-Leader election, failure handling, idempotent retries
+**meridian**
+Distributed Job Scheduler, Leader election, idempotent retries
 `Java` `Spring Boot` `Maven`
 
 </td>
@@ -50,9 +42,9 @@ Job application tracker with Gmail ingestion
 </td>
 <td width="50%" valign="top">
 
-**Pivot**
-Feature flag service
-`Go` `chi` `sqlc` `goose`
+**Catalyst**
+Realtime analytics pipeline
+`Node` `Hono` `Redis` `Kafka`
 
 </td>
 </tr>
